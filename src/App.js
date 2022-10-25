@@ -8,6 +8,7 @@ export default function App() {
       </header>
       <body>
         <h2>Test body content</h2>
+        <div>Additional content</div>
       </body>
     </div>
   );
