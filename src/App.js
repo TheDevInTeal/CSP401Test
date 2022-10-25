@@ -7,7 +7,7 @@ export default function App() {
         <h1>CSP401 CNet Review</h1>
       </header>
       <body>
-        <h2>Start editing to see some magic happen!</h2>
+        <h2>Test body content</h2>
       </body>
     </div>
   );
